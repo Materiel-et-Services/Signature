@@ -1,47 +1,52 @@
-<table width="600" cellspacing="0" cellpadding="0" border="0" align="left">
-    <tr>
-        <!-- Logos Section -->
-        <td width="50%" valign="middle">
-            <img src="https://github.com/Materiel-et-Services/Signature/blob/main/logos-32%20principal%20-%20bleu-jaune.png?raw=true" alt="BOLT & LADDER" width="250" style="display:block;">
-        </td>
-        <td width="50%" valign="middle" align="right">
-            <img src="https://github.com/Materiel-et-Services/Signature/blob/main/fond%20carte.png?raw=true" alt="BLFIX" width="250" style="display:block;">
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" style="font-size: 16pt; font-family: Arial, sans-serif; padding-top: 10px;">
+<table width="20%" cellspacing="0" cellpadding="0" border="0" align="left">
+<tr>
+<!-- Logos Section -->
+<td width="50%" valign="middle">
+<img src="
+https://github.com/Materiel-et-Services/Signature/tree/main/Images%20gammes/%%Department%%"
+alt="LOGO GAMME %%Department%%" width="250" style="display:block;">
+</td>
+<td width="50%" valign="middle" align="right">
+<img src="
+https://github.com/Materiel-et-Services/Signature/blob/main/fond%20carte.png?raw=true"
+alt="FOND DE CARTE" width="250" style="display:block;">
+</td>
+</tr>
+<tr>
+<td colspan="2" style="font-size: 16pt; font-family: Arial, sans-serif; padding-top: 10px;">
             %%FirstName%% %%LastName%%
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" style="font-size: 14pt; font-family: Arial, sans-serif; color: #666; padding-top: 5px;">
+</td>
+</tr>
+<tr>
+<td colspan="2" style="font-size: 14pt; font-family: Arial, sans-serif; color: #666; padding-top: 5px;">
             %%Title%%
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" style="padding-top: 10px;">
-            <hr>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" style="font-size: 12pt; font-family: Arial, sans-serif; padding-top: 5px;">
+</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-top: 10px;">
+<hr>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="font-size: 12pt; font-family: Arial, sans-serif; padding-top: 5px;">
             %%PhoneNumber%% / %%MobileNumber%%
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" style="font-size: 12pt; font-family: Arial, sans-serif; padding-top: 5px;">
+</td>
+</tr>
+<tr>
+<td colspan="2" style="font-size: 12pt; font-family: Arial, sans-serif; padding-top: 5px;">
             %%Email%%
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" style="font-size: 12pt; font-family: Arial, sans-serif; padding-top: 5px;">
-            %%StreetAdress%%
-        </td>
-    </tr>
-    <tr>
-        <!-- Footer Logo Section -->
-        <td colspan="2" valign="middle" align="right" style="padding-top: 20px;">
-            <img src="https://github.com/Materiel-et-Services/Signature/blob/main/LOGO%2041%20POUR%20FOND%20BLANC.png?raw=true" alt="GUYANE MATERIELS" width="250" style="display:block;">
-        </td>
-    </tr>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="font-size: 12pt; font-family: Arial, sans-serif; padding-top: 5px;">
+            %%StreetAddress%%
+</td>
+</tr>
+<tr>
+<!-- Footer Logo Section -->
+<td colspan="2" valign="middle" align="right" style="padding-top: 20px;">
+<img src="https://github.com/Materiel-et-Services/Signature/blob/main/Images%20gammes/GUYANE_MATERIELS.png?raw=true"
+alt="GUYANE MATERIELS" width="250" style="display:block;">
+</td>
+</tr>
 </table>
