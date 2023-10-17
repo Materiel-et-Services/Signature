@@ -40,7 +40,7 @@ alt="FOND DE CARTE" width="250" style="display:block;">
 </tr>
 <tr>
 <td colspan="2" style="font-size: 12pt; font-family: Arial, sans-serif; padding-top: 5px;">
-            %%StreetAddress%%
+            %%StreetAddress%% %%postalCode%%
 </td>
 </tr>
 <tr>
