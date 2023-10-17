@@ -3,7 +3,7 @@
 <!-- Logos Section -->
 <td width="50%" valign="middle">
 <img src="
-https://github.com/Materiel-et-Services/Signature/tree/main/Images%20gammes/%%Department%%.png"
+https://github.com/Materiel-et-Services/Signature/blob/main/Images%20gammes/%%Department%%.png"
 alt="LOGO GAMME %%Department%%" width="250" style="display:block;">
 </td>
 <td width="50%" valign="middle" align="right">
@@ -29,12 +29,12 @@ alt="FOND DE CARTE" width="250" style="display:block;">
 </tr>
 <tr>
 <td colspan="2" style="font-size: 12pt; font-family: Arial, sans-serif; padding-top: 5px;">
-            %%PhoneNumber%% / %%MobileNumber%%
+           <a href="tel:+594%%PhoneNumber%%>%%PhoneNumber%%</a> <a href="tel:+694%%MobileNumber%%">%%MobileNumber%%</a>
 </td>
 </tr>
 <tr>
 <td colspan="2" style="font-size: 12pt; font-family: Arial, sans-serif; padding-top: 5px;">
-            %%Email%%
+           <a href="mailto:%%Email%%">%%Email%%</a>
 </td>
 </tr>
 <tr>
