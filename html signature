@@ -9,7 +9,7 @@ alt="LOGO %%Company%%" width="100" style="display:block;">
 <td>
 <img src="
 https://github.com/Materiel-et-Services/Signature/blob/main/Images%20gammes/%%Department%%.png?raw=true"
-alt="LOGO GAMME %%Department%%" width="100" style="display:block;">
+alt="LOGO GAMME %%Department%%" align=right width="100" style="display:block;">
 </td>
 </tr>
 <tr>
