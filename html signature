@@ -1,13 +1,15 @@
 <table style="margin-top: 150px" width="15%" cellspacing="0" cellpadding="0" border="0" align="left">
 <tr>
 <!-- Logos Section -->
-<td width="50%" valign="middle">
+<td width="50%" valign="left">
+<img src="
+https://github.com/Materiel-et-Services/Signature/blob/main/Images%20gammes/%%Company%%.png?raw=true"
+alt="LOGO %%Company%%" width="100" style="display:block;">
+</td>
+<td>
 <img src="
 https://github.com/Materiel-et-Services/Signature/blob/main/Images%20gammes/%%Department%%.png?raw=true"
 alt="LOGO GAMME %%Department%%" width="100" style="display:block;">
-</td>
-<td>
-
 </td>
 </tr>
 <tr>
@@ -45,12 +47,12 @@ alt="LOGO GAMME %%Department%%" width="100" style="display:block;">
 <!-- Footer Logo Section -->
 <td colspan="2" valign="middle" align="left" style="padding-top: 20px;">
 <img src="https://github.com/Materiel-et-Services/Signature/blob/main/Images%20gammes/GUYANE_MATERIELS.png?raw=true"
-alt="GUYANE MATERIELS" width="100" style="display:block;">
+alt="GUYANE MATERIELS" height="50" style="display:block;">
 </td>
   <td width="50%" valign="middle" align="left">
 <img src="
 https://github.com/Materiel-et-Services/Signature/blob/main/fond%20carte.png?raw=true"
-alt="FOND DE CARTE" width="100" style="display:block;">
+alt="FOND DE CARTE" height="50" style="display:block;">
 </td>
 </tr>
 </table>
