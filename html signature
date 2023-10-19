@@ -1,24 +1,24 @@
-<table width="20%" cellspacing="0" cellpadding="0" border="0" align="left">
+<table width="15%" cellspacing="0" cellpadding="0" border="0" align="left">
 <tr>
 <!-- Logos Section -->
 <td width="50%" valign="middle">
 <img src="
 https://github.com/Materiel-et-Services/Signature/blob/main/Images%20gammes/%%Department%%.png?raw=true"
-alt="LOGO GAMME %%Department%%" width="250" style="display:block;">
+alt="LOGO GAMME %%Department%%" width="200" style="display:block;">
 </td>
 <td width="50%" valign="middle" align="right">
 <img src="
 https://github.com/Materiel-et-Services/Signature/blob/main/fond%20carte.png?raw=true"
-alt="FOND DE CARTE" width="250" style="display:block;">
+alt="FOND DE CARTE" width="150" style="display:block;">
 </td>
 </tr>
 <tr>
-<td colspan="2" style="font-size: 16pt; font-family: Arial, sans-serif; padding-top: 10px;">
+<td colspan="2" style="font-size: 12pt; font-family: Arial, sans-serif; padding-top: 10px;">
             %%FirstName%% %%LastName%%
 </td>
 </tr>
 <tr>
-<td colspan="2" style="font-size: 14pt; font-family: Arial, sans-serif; color: #666; padding-top: 5px;">
+<td colspan="2" style="font-size: 11pt; font-family: Arial, sans-serif; color: #666; padding-top: 5px;">
             %%Title%%
 </td>
 </tr>
@@ -29,8 +29,8 @@ alt="FOND DE CARTE" width="250" style="display:block;">
 </tr>
 <tr>
 <td colspan="2" style="font-size: 12pt; font-family: Arial, sans-serif; padding-top: 5px;">
-           <a href="tel:+594%%PhoneNumber%%">%%PhoneNumber%%</a>
-            <a href="tel:+694%%MobileNumber%%">%%MobileNumber%%</a>
+           <a href="tel:+594%%PhoneNumber%%">0%%PhoneNumber%%</a>
+            <a href="tel:+694%%MobileNumber%%">0%%MobileNumber%%</a>
 </td>
 </tr>
 <tr>
@@ -39,7 +39,7 @@ alt="FOND DE CARTE" width="250" style="display:block;">
 </td>
 </tr>
 <tr>
-<td colspan="2" style="font-size: 12pt; font-family: Arial, sans-serif; padding-top: 5px;">
+<td colspan="2" style="font-size: 10pt; font-family: Arial, sans-serif; padding-top: 5px;">
             %%StreetAddress%% %%postalCode%%
 </td>
 </tr>
@@ -47,7 +47,7 @@ alt="FOND DE CARTE" width="250" style="display:block;">
 <!-- Footer Logo Section -->
 <td colspan="2" valign="middle" align="right" style="padding-top: 20px;">
 <img src="https://github.com/Materiel-et-Services/Signature/blob/main/Images%20gammes/GUYANE_MATERIELS.png?raw=true"
-alt="GUYANE MATERIELS" width="250" style="display:block;">
+alt="GUYANE MATERIELS" width="200" style="display:block;">
 </td>
 </tr>
 </table>
