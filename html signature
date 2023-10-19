@@ -4,7 +4,7 @@
 <td width="50%" valign="left">
 <img src="
 https://github.com/Materiel-et-Services/Signature/blob/main/Images%20gammes/%%Company%%.png?raw=true"
-alt="LOGO %%Company%%" width="100" style="display:block;">
+alt="LOGO %%Company%%" width="100" style="display:block; padding-right: 20px">
 </td>
 <td>
 <img src="
@@ -47,7 +47,7 @@ alt="LOGO GAMME %%Department%%" align=right width="100" style="display:block;">
 <!-- Footer Logo Section -->
 <td colspan="2" valign="middle" align="left" style="padding-top: 20px;">
 <img src="https://github.com/Materiel-et-Services/Signature/blob/main/Images%20gammes/GUYANE_MATERIELS.png?raw=true"
-alt="GUYANE MATERIELS" height="50" style="display:block;">
+alt="GUYANE MATERIELS" height="50" style="display:block; padding-top: 20px;">
 </td>
   <td width="50%" valign="middle" align="left">
 <img src="
