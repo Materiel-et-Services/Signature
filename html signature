@@ -47,7 +47,7 @@ alt="LOGO JT" width="250" >
 </tr>
 <tr>
 <td colspan="2" style="font-size: 8px; font-family: Arial, sans-serif; padding-top: 5px;">
-            %%StreetAddress%% %%postalCode%%
+            %%StreetAddress%% %%postalCode%% %%City%%
 </td>
 </tr>
 <tr>
