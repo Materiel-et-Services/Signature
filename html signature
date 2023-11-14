@@ -1,7 +1,7 @@
 <table style="margin-top: 150px" width="15%" cellspacing="0" cellpadding="0" border="0" align="left">
 <tr>
 <!-- Logos Section -->
-<td width="50%" valign="left">
+<!-- <td width="50%" valign="left">
 <img src="
 https://github.com/Materiel-et-Services/Signature/blob/main/Images%20gammes/%%Company%%.png?raw=true"
 alt="LOGO %%Company%%" width="100" style="display:block; padding-right: 20px">
@@ -10,7 +10,14 @@ alt="LOGO %%Company%%" width="100" style="display:block; padding-right: 20px">
 <img src="
 https://github.com/Materiel-et-Services/Signature/blob/main/Images%20gammes/%%Department%%.png?raw=true"
 alt="LOGO GAMME %%Department%%" align=right width="100" style="display:block;">
-</td>
+</td> -->
+  <td colspan="2" >
+  <a href="https://www.guyanemateriels.com" target="_blank">
+    <img src="
+https://github.com/Materiel-et-Services/Signature/blob/main/Images%20gammes/JOURNEE_TECHNIQUE.png?raw=true"
+alt="LOGO JT" width="250" >
+</a>
+  </t>
 </tr>
 <tr>
 <td colspan="2" style="font-size: 10px; font-family: Arial, sans-serif; padding-top: 10px;">
@@ -30,7 +37,7 @@ alt="LOGO GAMME %%Department%%" align=right width="100" style="display:block;">
 <tr>
 <td colspan="2" style="font-size: 9px; font-family: Arial, sans-serif; padding-top: 5px;">
            <a href="tel:+594%%PhoneNumber%%">0%%PhoneNumber%%</a>
-            <a href="tel:+594%%MobileNumber%%">0%%MobileNumber%%</a>
+            <a style="%%FaxNumber%%" href="tel:+594%%MobileNumber%%">0%%MobileNumber%%</a>
 </td>
 </tr>
 <tr>
